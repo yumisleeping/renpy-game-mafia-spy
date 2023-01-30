@@ -1,4 +1,5 @@
 ﻿# Define characters here
+ 
 define luca =   Character("     Luca Kaneshiro", color="#ffffff")
 define ett =    Character("     Ettore", color="#ffffff")
 define yn =     Character("[ynbox]", color="#ffffff")
@@ -73,18 +74,10 @@ image blackscreen = "images/scenery/blackscreen.png"
 
 label start:
 
-    # Luca e Ettore zom: 1.3 truecenter
-    # yn zoom: 1.2
-
     stop music
-
-    # call screen ayo
 
     play sound pog volume 0.5
     call askname from _call_askname
-
-    # play music playlista volume 0.3
-    
 
     call act1 from _call_act1
     call past from _call_past
@@ -141,7 +134,6 @@ label act1:
 
     ett "\"What's making you hesitate?\""
 
-
     "He lazily backed away from the fireplace, and although his massive figure disappeared into the shadows of the dimly lit room,"
 
     hide ett
@@ -152,7 +144,6 @@ label act1:
 
     play audio ettchuckle
     "My silence and staring at the object in his hand must have been answer enough, as his chuckle sent a shiver down my spine."
-
 
     show ett smirk at truecenter:
         zoom 1.3
