@@ -10,3 +10,6 @@ Click to read the original story:<br>
 Your options? None.<br>
 Your allies? Nobody.<br>
 Trust no one, not even yourself.</i>
+
+To play the visual novel, you can download it here:<br>
+https://drive.google.com/file/d/1eD5F7VJDZNGNzGgqHQxM6XQdAHBP6Y-i/view?usp=sharing
