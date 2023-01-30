@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/options.rpy", line 64: invalid syntax
+    "audio/menu-song.mp3" volume 0.2
+                           ^
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Wed Jan 25 15:19:35 2023
