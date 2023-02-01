@@ -24,7 +24,6 @@ transform half_left_closer:
 define playlista = "audio/soundtrack.mp3"
 
 # SFX
-define surprise = "audio/sfx/surprise.mp3"
 define fire = "audio/sfx/fire-crackling.mp3"
 define ettchuckle = "audio/sfx/ett-chuckle.mp3"
 define pog = "audio/sfx/pog.mp3"
@@ -38,14 +37,6 @@ define spooky = "audio/sfx/spooky.mp3"
 #------------------------------------------------------------------
 
 # Define char images here
-
-#Luca
-image luca neutral = "images/Kaneshiro/neutral.png"
-image luca neutral2 = "images/Kaneshiro/neutral-look-away.png"
-image luca happy = "images/Kaneshiro/happy.png"
-image luca surprised = "images/Kaneshiro/surprised.png"
-image luca angry = "images/Kaneshiro/angry.png"
-image luca shock = "images/Kaneshiro/shock.png"
 
 #Ettore
 image ett smirk = "images/Ettore/smirk.png"
@@ -61,7 +52,6 @@ image stranger strangeman = "images/npc/strange-man.png"
 
 # Define scenery images here
 image namescreen = "images/scenery/rename-screen.png"
-image bar = "images/scenery/bar.jpg"
 image fireplace = "images/scenery/fireplace.png"
 image italianstreet = "images/scenery/italian-street.png"
 image blackoverlay = "images/scenery/black-overlay.png"
